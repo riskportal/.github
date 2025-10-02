@@ -5,7 +5,7 @@
   <strong>Simplifying network analysis and visualization</strong>
 </h2>
 <p align="center" style="font-size: 0.95em; color: #9ec3ff;">
-  <a href="https://riskportal.github.io/network-tutorial/" target="_blank" style="text-decoration: none; color: #9ec3ff;">RISK Network Documentation</a>
+  <a href="https://riskportal.github.io/network-tutorial/" target="_blank" style="text-decoration: none; color: #9ec3ff;">RISK Documentation</a>
   <span style="margin: 0 0.75em;">·</span>
-  <a href="https://github.com/riskportal/network" target="_blank" style="text-decoration: none; color: #9ec3ff;">RISK Network Source Code</a>
+  <a href="https://github.com/riskportal/network" target="_blank" style="text-decoration: none; color: #9ec3ff;">RISK Source Code</a>
 </p>

@@ -5,7 +5,7 @@
   <strong>Scalable network annotation and visualization</strong>
 </h2>
 <p align="center" style="font-size: 0.95em; color: #9ec3ff;">
-  <a href="https://github.com/riskportal/network" target="_blank" style="text-decoration: none; color: #9ec3ff;">RISK Source Code</a>
+  <a href="https://github.com/riskportal/risk" target="_blank" style="text-decoration: none; color: #9ec3ff;">RISK Source Code</a>
   <span style="margin: 0 0.75em;">·</span>
-  <a href="https://riskportal.github.io/network-tutorial/" target="_blank" style="text-decoration: none; color: #9ec3ff;">RISK Documentation</a>
+  <a href="https://riskportal.github.io/risk-docs/" target="_blank" style="text-decoration: none; color: #9ec3ff;">RISK Documentation</a>
 </p>
